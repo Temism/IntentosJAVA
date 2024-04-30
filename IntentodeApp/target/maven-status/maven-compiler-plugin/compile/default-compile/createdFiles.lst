@@ -1,0 +1,6 @@
+com\mpalma\evaluacion2marcopalma\Evaluacion2MarcoPalma.class
+com\mpalma\evaluacion2marcopalma\ServicesImpl\IVehiculoServiceImpl.class
+com\mpalma\evaluacion2marcopalma\DTO\VehiculoCargaDTO.class
+com\mpalma\evaluacion2marcopalma\DTO\VehiculoPasajeroDTO.class
+com\mpalma\evaluacion2marcopalma\Services\IVehiculoService.class
+com\mpalma\evaluacion2marcopalma\DTO\VehiculoDTO.class
